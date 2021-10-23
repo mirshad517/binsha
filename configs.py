@@ -30,34 +30,37 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍ **Developer:** @AbirHasan2005
+🧑🏻‍ **Developer:** @dev_mirshad
 
-👨‍💻 **Editing:** @Mrk_YT
+👨‍💻 **Users:** movies privet group
 
-📺 **Support:** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+📺 **Support:** [Instagram](https://instagram.com/mirshad_kvr?utm_medium=copy_link)
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
+🗣️ **Any Doubt:** @dev_mirshad
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **ഞാൻ 😁:** [ഞാൻ😁] (എന്നെ ഡെവലപ്പ് ചെയ്തത് @dev_mirshad ആണ് അത് കൊണ്ട് ചിലപ്പോൾ എന്തങ്കിലും പ്രേശ്നങ്ങൾ ഉണ്ടങ്കിൽ അറിയിക്കുക NB:എന്നെ എന്റെ chunks ഉള്ള മൂവീസ് എന്നാ പ്രൈവറ്റ് ഗ്രൂപ്പിൽ മാത്രേ യൂസ് ചെയ്യാൻ പറ്റു 
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍ **Developer:** @AbirHasan2005
+🧑🏻‍ **Developer:** @dev_mirshad
 
-💻 **Developer Details:** [Clcik Here](https://github.com/MoTechYT/MT-FilesStoreBot/blob/main/README.md)
+💻 **Developer Details:** [Clcik Here](https://instagram.com/mirshad_kvr?utm_medium=copy_link)
 
-👨‍💻 **Editing:** @Mrk_YT
+👨‍💻 **Users:** Movies Privet Group
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
+🗣️ **Any Doubt:** @dev_mirshad
 
-📺 **Support :** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+📺 **Support :** [Instagram](https://instagram.com/mirshad_kvr?utm_medium=copy_link)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢  **ഞാൻ 😁:** [ഞാൻ😁] (എന്നെ ഡെവലപ്പ് ചെയ്തത് @dev_mirshad ആണ് അത് കൊണ്ട് ചിലപ്പോൾ എന്തങ്കിലും പ്രേശ്നങ്ങൾ ഉണ്ടങ്കിൽ അറിയിക്കുക NB:എന്നെ എന്റെ chunks ഉള്ള മൂവീസ് എന്നാ പ്രൈവറ്റ് ഗ്രൂപ്പിൽ മാത്രേ യൂസ് ചെയ്യാൻ പറ്റു 
+"""
 
 Donate Now (coming soon)
 """
 	HOME_TEXT = """
-**👋Hi**, [{}](tg://user?id={})\n\n**This is Permanent** **MT FileStoreBot**.
+**👋Hi. എന്നെ ഉണ്ടാക്കിയത് @dev_mirshad ആണ് അത് കൊണ്ട് ചിലപ്പോൾ errors ഒക്കെ ഉണ്ടാകും 🤣 എന്നെ
+ഞാൻ വർക്ക്‌ ചെയ്യുന്നത് phython എന്നാ ഭാഷയിലാണ് എന്നെ എല്ലാ ഗ്രൂപ്പിലും യൂസ് ചെയ്യാൻ പറ്റില്ല എല്ലാ ഗ്രൂപ്പിലും വാരി വലിച്ചു ഇടരുത് ഞാൻ ഒരു പാവം ആണ്
+(**, [{}](tg://user?id={})\n\n**This is Permanent** **Bot**.
 
-**Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check About Bot Button**.
+**Send me any file I will give you a permanent Sharable Link.**.
 """
 
